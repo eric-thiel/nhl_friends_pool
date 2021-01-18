@@ -48,7 +48,7 @@ ui = shinyUI(
   pageWithSidebar(
     headerPanel("Friends Fantasy Hockey :)")
     ,
-    sidebarPanel(width=4,
+    sidebarPanel(width=2,
                  wellPanel(
                    selectInput("Year", label = h3("Waiver Wire or Current Teams?"),
                                choices =(choices), 
