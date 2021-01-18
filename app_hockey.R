@@ -105,11 +105,11 @@ server = shinyServer(
     
     missing$Goals = 0
     missing$Team = "???"
-    missing$Position ="???"
+    missing$Pos ="???"
     missing$`Assists` = 0
     missing$`Points` = 0
     missing$GP = 0
-    missing$Points_Per_Game = 0
+    missing$PPG = 0
     
     
     non_available_players_df = rbind(non_available_players_df, missing)
