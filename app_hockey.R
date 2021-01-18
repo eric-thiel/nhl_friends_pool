@@ -77,6 +77,7 @@ server = shinyServer(
     df = get_player_data()
     df$PPG = round(df$`Total Points` / df$GP,2)
     df = df %>% rename("Points"="Total Points", "Assists"="Total Assists", "Pos"="Position")
+    df = df %>% dplyr::select(Player, Team, Pos, GP, Goals, Assists, Points, PPG)
     gf = get_teams()
     
     
