@@ -75,8 +75,8 @@ server = shinyServer(
   function(input,output,session){
     
     df = get_player_data()
-    df$Points_Per_Game = round(df$`Total Points` / df$GP,2)
-    df = df %>% rename("Points"="Total Points", "Assists"="Total Assists")
+    df$PPG = round(df$`Total Points` / df$GP,2)
+    df = df %>% rename("Points"="Total Points", "Assists"="Total Assists", "Pos"="Position")
     gf = get_teams()
     
     
