@@ -30,7 +30,7 @@
 "Alex Goligoski","ARI","D",0,1,1,6
 "David Krejci","BOS","C",0,4,4,5
 "Andrej Sekera","DAL","D",0,0,0,2
-"Alexander Edler","VAN","D",0,1,1,6
+"Alexander Edler","VAN","D",0,2,2,7
 "Paul Stastny","WPG","C",1,3,4,6
 "Sidney Crosby","PIT","C",3,4,7,6
 "Bobby Ryan","DET","R",4,1,5,5
@@ -65,7 +65,7 @@
 "Derick Brassard","ARI","C",1,3,4,6
 "Phil Kessel","ARI","R",4,0,4,6
 "Nicklas Backstrom","WSH","C",4,3,7,6
-"Artem Anisimov","OTT","C",0,1,1,3
+"Artem Anisimov","OTT","C",0,1,1,4
 "Mathieu Perreault","WPG","L",0,1,1,6
 "Alex Killorn","T.B","L",1,2,3,4
 "Jamie Benn","DAL","L",0,0,0,1
@@ -82,13 +82,13 @@
 "Riley Nash","CBJ","C",0,1,1,6
 "Kyle Turris","EDM","C",1,0,1,7
 "Brendan Smith","NYR","D",0,1,1,3
-"Brandon Sutter","VAN","C",1,0,1,7
+"Brandon Sutter","VAN","C",4,0,4,8
 "Colton Sceviour","PIT","C",2,0,2,6
 "David Perron","STL","L",1,3,4,6
 "Carl Gunnarsson","STL","D",0,1,1,3
 "Patrick Kane","CHI","R",3,4,7,6
 "Robert Bortuzzo","STL","D",0,0,0,2
-"Evgenii Dadonov","OTT","R",1,1,2,5
+"Evgenii Dadonov","OTT","R",1,1,2,6
 "Mikael Backlund","CGY","C",1,1,2,4
 "Ryan McDonagh","T.B","D",0,2,2,4
 "Max Pacioretty","VGK","L",3,1,4,6
@@ -100,14 +100,14 @@
 "Wayne Simmonds","TOR","R",1,0,1,7
 "Jason Demers","ARI","D",0,0,0,6
 "Micheal Haley","OTT","L",0,0,0,1
-"Jay Beagle","VAN","C",0,0,0,7
+"Jay Beagle","VAN","C",0,1,1,8
 "Drew Doughty","L.A","D",2,2,4,6
 "Steven Stamkos","T.B","C",2,4,6,4
 "Alex Pietrangelo","VGK","D",1,2,3,6
 "Zach Bogosian","TOR","D",0,0,0,7
 "Luke Schenn","T.B","D",0,0,0,2
 "Josh Bailey","NYI","C, R",0,1,1,5
-"Tyler Myers","VAN","D",1,3,4,7
+"Tyler Myers","VAN","D",1,3,4,8
 "Erik Karlsson","S.J","D",0,3,3,6
 "Luca Sbisa","NSH","D",0,0,0,1
 "Jake Gardiner","CAR","D",0,2,2,3
@@ -118,7 +118,7 @@
 "Roman Josi","NSH","D",0,1,1,5
 "Justin Schultz","WSH","D",1,1,2,6
 "Travis Hamonic","VAN","D",0,2,2,5
-"Derek Stepan","OTT","C",1,1,2,5
+"Derek Stepan","OTT","C",1,1,2,6
 "Marco Scandella","STL","D",0,0,0,5
 "Adam Henrique","ANA","C",1,1,2,6
 "TJ Brodie","TOR","D",0,3,3,7
@@ -129,8 +129,8 @@
 "Matt Martin","NYI","L",0,0,0,5
 "Cam Atkinson","CBJ","R",0,2,2,6
 "Jared Spurgeon","MIN","D",0,1,1,6
-"Jordie Benn","VAN","D",0,1,1,1
-"Antoine Roussel","VAN","L",0,1,1,7
+"Jordie Benn","VAN","D",0,1,1,2
+"Antoine Roussel","VAN","L",0,2,2,8
 "Tyler Johnson","T.B","C",0,1,1,3
 "Mike Hoffman","STL","C",1,1,2,5
 "Tyler Bozak","STL","C",0,2,2,6
@@ -152,7 +152,7 @@
 "Zack Kassian","EDM","R",0,2,2,6
 "Dmitry Kulikov","N.J","D",0,0,0,5
 "Nick Leddy","NYI","D",0,3,3,5
-"Chris Kreider","NYR","C, L",1,0,1,5
+"Chris Kreider","NYR","L",1,0,1,5
 "Brayden McNabb","VGK","D",0,0,0,6
 "Reilly Smith","VGK","R",2,1,3,6
 "Tomas Tatar","MTL","L",3,3,6,6
@@ -194,13 +194,13 @@
 "Derek Forbort","WPG","D",0,3,3,6
 "Kevin Hayes","PHI","C",3,5,8,6
 "Cam Fowler","ANA","D",1,0,1,6
-"Austin Watson","OTT","L",1,1,2,5
+"Austin Watson","OTT","L",2,1,3,6
 "Jaden Schwartz","STL","L",1,3,4,6
 "Riley Sheahan","BUF","C",1,1,2,6
 "Chris Wagner","BOS","R",0,0,0,5
 "Jeff Skinner","BUF","L",0,1,1,6
 "Zach Hyman","TOR","L",1,2,3,7
-"Erik Gudbranson","OTT","D",0,1,1,5
+"Erik Gudbranson","OTT","D",0,1,1,6
 "Taylor Hall","BUF","L",1,5,6,6
 "Brett Connolly","FLA","R",0,0,0,2
 "Ryan Johansen","NSH","C",0,2,2,5
@@ -235,7 +235,7 @@
 "Andy Welinski","ANA","D",0,0,0,3
 "Josh Leivo","CGY","L",0,1,1,4
 "Jean-Gabriel Pageau","NYI","C",1,1,2,5
-"Mike Reilly","OTT","D",0,2,2,4
+"Mike Reilly","OTT","D",0,3,3,5
 "Rocco Grimaldi","NSH","R",1,1,2,4
 "Scott Mayfield","NYI","D",0,0,0,5
 "Boone Jenner","CBJ","C",2,2,4,6
@@ -255,7 +255,7 @@
 "Dougie Hamilton","CAR","D",0,2,2,3
 "Jonas Brodin","MIN","D",1,1,2,6
 "Jamie Oleksiak","DAL","D",0,0,0,2
-"J.T. Miller","VAN","C",0,5,5,4
+"J.T. Miller","VAN","C",0,5,5,5
 "Joel Armia","MTL","R",2,3,5,5
 "Nathan Beaulieu","WPG","D",0,1,1,6
 "Connor Murphy","CHI","D",2,3,5,6
@@ -272,13 +272,13 @@
 "Luke Glendening","DET","C",0,0,0,6
 "Yanni Gourde","T.B","C",1,2,3,4
 "Ryan Murray","N.J","D",0,0,0,5
-"Alex Galchenyuk","OTT","L",1,0,1,2
+"Alex Galchenyuk","OTT","L",1,0,1,3
 "Morgan Rielly","TOR","D",1,3,4,7
 "Hampus Lindholm","ANA","D",2,0,2,6
 "Matt Dumba","MIN","D",2,1,3,6
 "Phillip Di Giuseppe","NYR","L",0,4,4,4
 "Brady Skjei","CAR","D",0,0,0,3
-"Tanner Pearson","VAN","L",0,2,2,7
+"Tanner Pearson","VAN","L",1,3,4,8
 "Scott Laughton","PHI","C",0,2,2,6
 "Mark Jankowski","PIT","C",1,2,3,6
 "Olli Maatta","L.A","D",0,0,0,4
@@ -301,7 +301,7 @@
 "Jujhar Khaira","EDM","L",0,0,0,2
 "Adam Pelech","NYI","D",0,1,1,5
 "Jimmy Vesey","TOR","L",2,0,2,7
-"Chris Tierney","OTT","C",3,0,3,5
+"Chris Tierney","OTT","C",3,0,3,6
 "Jordan Martinook","CAR","L",0,1,1,3
 "Damon Severson","N.J","D",0,1,1,5
 "Colton Sissons","NSH","C",1,0,1,5
@@ -316,13 +316,13 @@
 "Josh Anderson","MTL","R",3,1,4,6
 "Matthew Benning","NSH","D",0,0,0,4
 "Vinnie Hinostroza","FLA","C",0,0,0,1
-"Connor Brown","OTT","R",0,3,3,5
+"Connor Brown","OTT","R",0,3,3,6
 "Alexander Kerfoot","TOR","C",1,2,3,7
 "Nikita Gusev","N.J","L",0,1,1,5
 "Christian Djoos","DET","D",0,0,0,2
 "Kurtis MacDermid","L.A","D",0,1,1,4
 "Danny DeKeyser","DET","D",0,0,0,6
-"Nate Schmidt","VAN","D",1,1,2,7
+"Nate Schmidt","VAN","D",1,1,2,8
 "Carter Rowney","ANA","C",0,4,4,6
 "Chad Ruhwedel","PIT","D",0,0,0,5
 "Michael Raffl","PHI","L",1,1,2,6
@@ -330,20 +330,20 @@
 "Dominik Kubalik","CHI","L",2,2,4,6
 "Andreas Johnsson","N.J","L",0,0,0,5
 "MacKenzie Weegar","FLA","D",0,1,1,2
-"Tyler Motte","VAN","C",2,0,2,7
+"Tyler Motte","VAN","C",3,0,3,8
 "Tucker Poolman","WPG","D",0,0,0,1
 "Connor Clifton","BOS","D",0,0,0,1
 "Carson Soucy","MIN","D",0,1,1,6
-"Josh Brown","OTT","D",0,0,0,5
+"Josh Brown","OTT","D",0,0,0,6
 "John Hayden","ARI","C",0,0,0,1
-"Pavel Buchnevich","NYR","L, R",2,2,4,5
+"Pavel Buchnevich","NYR","R",2,2,4,5
 "Jake Guentzel","PIT","L",2,3,5,6
 "Mattias Janmark","CHI","C",2,1,3,6
 "Anthony Duclair","FLA","L",0,2,2,2
 "Carter Verhaeghe","FLA","C",2,1,3,2
 "Oliver Bjorkstrand","CBJ","R",2,3,5,6
 "Miles Wood","N.J","L",3,1,4,5
-"Nick Paul","OTT","L",2,2,4,5
+"Nick Paul","OTT","L",2,2,4,6
 "Andrew Copp","WPG","C",2,3,5,6
 "Ryan Graves","COL","D",0,1,1,5
 "Andre Burakovsky","COL","L",2,1,3,3
@@ -366,7 +366,7 @@
 "Sean Monahan","CGY","C",2,3,5,4
 "Darnell Nurse","EDM","D",1,2,3,7
 "Rasmus Ristolainen","BUF","D",1,2,3,6
-"Bo Horvat","VAN","C",5,3,8,7
+"Bo Horvat","VAN","C",5,5,10,8
 "Valeri Nichushkin","COL","R",0,0,0,6
 "Max Domi","CBJ","C",0,2,2,6
 "Josh Morrissey","WPG","D",0,3,3,6
@@ -388,7 +388,7 @@
 "Leon Draisaitl","EDM","C",3,6,9,7
 "Sam Bennett","CGY","C",0,0,0,4
 "Michael Dal Colle","NYI","L",0,0,0,1
-"Jake Virtanen","VAN","R",1,0,1,7
+"Jake Virtanen","VAN","R",1,0,1,8
 "Haydn Fleury","CAR","D",0,0,0,3
 "William Nylander","TOR","R",2,5,7,7
 "Nikolaj Ehlers","WPG","L",4,3,7,6
@@ -457,7 +457,7 @@
 "Travis Konecny","PHI","R",5,2,7,6
 "Dylan Strome","CHI","C",1,3,4,6
 "Brandon Carlo","BOS","D",1,0,1,5
-"Brock Boeser","VAN","R",4,2,6,7
+"Brock Boeser","VAN","R",4,2,6,8
 "Mathew Barzal","NYI","C",2,2,4,5
 "Nicholas Merkley","N.J","R",0,0,0,1
 "Roope Hintz","DAL","L",1,4,5,2
@@ -470,7 +470,7 @@
 "Daniel Sprong","WSH","R",0,1,1,4
 "Nicolas Meloche","S.J","D",0,0,0,1
 "Jeremy Lauzon","BOS","D",0,1,1,5
-"Thomas Chabot","OTT","D",1,1,2,5
+"Thomas Chabot","OTT","D",1,2,3,6
 "Mathieu Joseph","T.B","R",2,0,2,4
 "Lawson Crouse","ARI","L",0,1,1,6
 "Kyle Capobianco","ARI","D",0,0,0,2
@@ -487,12 +487,12 @@
 "Anthony Cirelli","T.B","C",1,3,4,4
 "Tanner Kero","DAL","C",0,0,0,1
 "Evan Rodrigues","PIT","C",1,0,1,6
-"Artemi Panarin","NYR","C, L",2,4,6,5
+"Artemi Panarin","NYR","L",2,4,6,5
 "Dean Kukan","CBJ","D",0,1,1,6
 "Noel Acciari","FLA","C",0,0,0,2
 "Derek Ryan","CGY","C",0,0,0,4
 "Kevin Stenlund","CBJ","C",0,1,1,1
-"Christian Wolanin","OTT","D",0,0,0,2
+"Christian Wolanin","OTT","D",0,0,0,3
 "Conor Garland","ARI","R",2,4,6,6
 "Niko Mikkola","STL","D",0,0,0,2
 "Kirill Kaprizov","MIN","L",1,5,6,6
@@ -527,7 +527,7 @@
 "Kale Clague","L.A","D",0,1,1,4
 "Sam Steel","ANA","C",0,2,2,6
 "Brett Howden","NYR","C",0,1,1,5
-"Olli Juolevi","VAN","D",0,0,0,6
+"Olli Juolevi","VAN","D",1,0,1,7
 "Kieffer Bellows","NYI","L",0,0,0,4
 "Trent Frederic","BOS","C",0,1,1,5
 "Max Jones","ANA","L",0,0,0,2
@@ -541,14 +541,14 @@
 "Riley Stillman","FLA","D",0,0,0,1
 "Noah Gregor","S.J","C",1,0,1,4
 "Samuel Girard","COL","D",0,5,5,6
-"Pierre-Luc Dubois","CBJ","C",1,0,1,5
+"Pierre-Luc Dubois","CBJ","C, L",1,0,1,5
 "Mikhail Sergachev","T.B","D",0,1,1,4
 "Nathan Bastian","N.J","R",1,0,1,5
 "Michael McLeod","N.J","C",0,0,0,5
 "Tage Thompson","BUF","R",0,1,1,4
 "Filip Hronek","DET","D",0,4,4,6
 "Troy Stecher","DET","D",0,0,0,6
-"Nikita Zaitsev","OTT","D",0,5,5,5
+"Nikita Zaitsev","OTT","D",0,5,5,6
 "Drake Caggiula","ARI","C",0,3,3,6
 "Janne Kuokkanen","N.J","C, L",0,0,0,5
 "Brandon Hagel","CHI","L",0,0,0,3
@@ -556,7 +556,7 @@
 "Matt Luff","L.A","R",0,0,0,2
 "Mathieu Olivier","NSH","R",0,0,0,3
 "Trevor Moore","L.A","C",0,2,2,6
-"Zack MacEwen","VAN","C",0,0,0,4
+"Zack MacEwen","VAN","C",0,0,0,5
 "Nolan Patrick","PHI","C",1,3,4,6
 "Juuso Valimaki","CGY","D",0,0,0,4
 "Kailer Yamamoto","EDM","R",3,3,6,7
@@ -571,7 +571,7 @@
 "Casey Mittelstadt","BUF","C",0,1,1,1
 "Jesper Boqvist","N.J","C",0,0,0,4
 "Kristian Vesalainen","WPG","L",0,0,0,1
-"Elias Pettersson","VAN","C",1,1,2,7
+"Elias Pettersson","VAN","C",1,1,2,8
 "Gabriel Vilardi","L.A","C",3,0,3,6
 "Owen Tippett","FLA","R",0,0,0,2
 "Nick Suzuki","MTL","C",2,4,6,6
@@ -584,7 +584,7 @@
 "Miro Heiskanen","DAL","D",0,1,1,2
 "Martin Necas","CAR","C",0,1,1,3
 "Pierre-Olivier Joseph","PIT","D",0,1,1,2
-"Josh Norris","OTT","C",1,3,4,5
+"Josh Norris","OTT","C",1,3,4,6
 "Cale Makar","COL","D",0,5,5,6
 "Ian Mitchell","CHI","D",0,1,1,6
 "Lias Andersson","L.A","C",1,0,1,4
@@ -598,15 +598,15 @@
 "Eetu Luostarinen","FLA","C",1,1,2,2
 "Alexander Volkov","T.B","R",0,1,1,2
 "Emil Bemstrom","CBJ","C",0,0,0,5
-"Drake Batherson","OTT","R",0,3,3,5
+"Drake Batherson","OTT","R",0,3,3,6
 "Sean Walker","L.A","D",0,1,1,5
 "Pius Suter","CHI","C",3,1,4,6
 "Zach Whitecloud","VGK","D",0,1,1,6
 "Eric Robinson","CBJ","L",1,1,2,6
 "Joel Farabee","PHI","L",1,3,4,6
 "Philipp Kurashev","CHI","C",2,0,2,5
-"Quinn Hughes","VAN","D",0,6,6,7
-"Brady Tkachuk","OTT","L",2,2,4,5
+"Quinn Hughes","VAN","D",1,6,7,8
+"Brady Tkachuk","OTT","L",2,2,4,6
 "Isac Lundestrom","ANA","C",0,0,0,2
 "K'Andre Miller","NYR","D",0,1,1,5
 "Filip Zadina","DET","R",0,2,2,4
@@ -633,7 +633,7 @@
 "Joel Kellman","S.J","C",0,0,0,1
 "Bowen Byram","COL","D",0,1,1,3
 "Dylan Cozens","BUF","C",1,1,2,5
-"Nils Hoglander","VAN","L",2,1,3,7
+"Nils Hoglander","VAN","L",2,2,4,8
 "Kaapo Kakko","NYR","R",2,0,2,5
 "Jack Hughes","N.J","C",3,4,7,5
 "Ville Heinola","WPG","D",0,0,0,1
@@ -646,7 +646,7 @@
 "Nikolai Knyzhov","S.J","D",0,0,0,6
 "Cole Smith","NSH","L",0,0,0,1
 "Alexis Lafrenière","NYR","L",0,0,0,5
-"Tim Stützle","OTT","L",1,0,1,2
+"Tim Stützle","OTT","L",1,0,1,3
 "Alexander Barabanov","TOR","L",0,0,0,4
 "Mathias Brome","DET","L",0,0,0,6
 "Mikko Lehtonen","TOR","D",0,0,0,2
